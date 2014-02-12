@@ -1,4 +1,4 @@
-Software QA System  {#welcome}
+Software QA System
 ===
 
 Version: 6.1.0 (Released on April 14th, 2013)
