@@ -25,15 +25,15 @@ Competitors use this system to answer their question. This system will get quest
 ### Screenshots
 
 #### Software QA System
-![Login](https://raw2.github.com/zjhzxhz/Software-QA-System/master/Screenshots/Software-QA-System-01.jpg)
+![Login](https://raw.githubusercontent.com/zjhzxhz/Software-QA-System/master/Screenshots/Software-QA-System-01.jpg)
 
-![Main Window](https://raw2.github.com/zjhzxhz/Software-QA-System/master/Screenshots/Software-QA-System-02.jpg)
+![Main Window](https://raw.githubusercontent.com/zjhzxhz/Software-QA-System/master/Screenshots/Software-QA-System-02.jpg)
 
 #### Software Management System
-![Main Window](https://raw2.github.com/zjhzxhz/Software-QA-System/master/Screenshots/Software-QA-System-03.jpg)
+![Main Window](https://raw.githubusercontent.com/zjhzxhz/Software-QA-System/master/Screenshots/Software-QA-System-03.jpg)
 
 #### Software Enrollment System
-![Main Window](https://raw2.github.com/zjhzxhz/Software-QA-System/master/Screenshots/Software-QA-System-04.jpg)
+![Main Window](https://raw.githubusercontent.com/zjhzxhz/Software-QA-System/master/Screenshots/Software-QA-System-04.jpg)
 
 ---
 ### License ###
